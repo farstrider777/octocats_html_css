@@ -33,6 +33,15 @@ color: lightgray;
 display: inline;
   float: right;
   font: 80% sans-serif;
+  color: lightgray;
+}
+
+a{
+  text-decoration: none;
+color: unset;
+color: black;
+font-weight: bold;
+
 }
 
 .authors img{
